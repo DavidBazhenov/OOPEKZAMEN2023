@@ -34,3 +34,4 @@
 >33. Java. Наследование и полиморфизм.
 >34. Java. Исключения. Проверяемые исключения.
 >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
