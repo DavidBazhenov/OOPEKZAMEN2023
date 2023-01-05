@@ -4,10 +4,10 @@
 >3. [С++. Разработка методов классов. Операции класса и их перегрузка.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/3task.md)✅
 >4. [С++. Статические компоненты класса. Статические методы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/4task.md)✅
 >5. [С++. Исключительные ситуации и их обработка.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/5task.md)✅
->6. [С++. Включение и делегирование.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/6task.md)
->7. [С++. Наследование. Базовый и производный классы. Доступ к наследуемым компонентам.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/7task.md)
->8. [С++. Виртуальные функции и их вызов. Абстрактные классы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/8task.md)
->9. [С++. Классы-шаблоны.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/9task.md)
+>6. [С++. Включение и делегирование.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/6task.md)✅️
+>7. [С++. Наследование. Базовый и производный классы. Доступ к наследуемым компонентам.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/7task.md)✅️
+>8. [С++. Виртуальные функции и их вызов. Абстрактные классы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/8task.md)✅️
+>9. [С++. Классы-шаблоны.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/9task.md)✅️
 >10. [С++. Библиотека STL. Классы - контейнеры](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/10task.md)
 >11. [С++. Итераторы STL.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/11task.md)
 >12. [С++. Общие операции для контейнеров. Функция emplace.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/12task.md)
