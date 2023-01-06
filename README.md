@@ -24,14 +24,14 @@
 >23. [C#. Классы String и StringBuilder.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/23task.md)
 >24. [С#. Универсальные классы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/24task.md)
 >25. [С#. Наследование, виртуальные функции](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/25task.md)
->26. [С#. Абстрактные классы и классы-интерфейсы](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/26task.md)
->27. [С#. Коллекции. Список, Словарь.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/27task.md)
->28. [С#. Делегаты и события](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/28task.md)
->29. [C#. Многопоточность. Разделяемые ресурсы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/29task.md)
->30. [С#. Приложения Windows Form. Обработка событий](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/30task.md)
->31. [Java. Типы данных.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/31task.md)
->32. [Java. Классы, создание объектов.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/32task.md)
->33. [Java. Наследование и полиморфизм.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/33task.md)
->34. [Java. Исключения. Проверяемые исключения.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/34task.md)
+>26. [С#. Абстрактные классы и классы-интерфейсы](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/26task.md)✅️
+>27. [С#. Коллекции. Список, Словарь.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/27task.md)✅️
+>28. [С#. Делегаты и события](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/28task.md)✅️
+>29. [C#. Многопоточность. Разделяемые ресурсы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/29task.md)✅️
+>30. [С#. Приложения Windows Form. Обработка событий](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/30task.md)✅️
+>31. [Java. Типы данных.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/31task.md)✅️
+>32. [Java. Классы, создание объектов.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/32task.md)✅️
+>33. [Java. Наследование и полиморфизм.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/33task.md)✅️
+>34. [Java. Исключения. Проверяемые исключения.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/34task.md)✅️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=202320232023202320232023202320232023202320232023+2023+2023+2023)](https://git.io/typing-svg)  
