@@ -8,11 +8,11 @@
 >7. [С++. Наследование. Базовый и производный классы. Доступ к наследуемым компонентам.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/7task.md)✅️
 >8. [С++. Виртуальные функции и их вызов. Абстрактные классы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/8task.md)✅️
 >9. [С++. Классы-шаблоны.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/9task.md)✅️
->10. [С++. Библиотека STL. Классы - контейнеры](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/10task.md)
->11. [С++. Итераторы STL.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/11task.md)
->12. [С++. Общие операции для контейнеров. Функция emplace.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/12task.md)
->13. [С++. Последовательные контейнеры. Выбор типа контейнера.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/13task.md)
->14. [С++. Алгоритмы для последовательных контейнеров.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/14task.md)
+>10. [С++. Библиотека STL. Классы - контейнеры](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/10task.md)✅
+>11. [С++. Итераторы STL.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/11task.md)✅
+>12. [С++. Общие операции для контейнеров. Функция emplace.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/12task.md)✅
+>13. [С++. Последовательные контейнеры. Выбор типа контейнера.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/13task.md)✅
+>14. [С++. Алгоритмы для последовательных контейнеров.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/14task.md)✅
 >15. [C++. Функциональные объекты и лямбда-выражения.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/15task.md)✅
 >16. [С++. Ассоциативные контейнеры. Пары. Словарь.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/16task.md)✅
 >17. [C++. «Умные» указатели.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/17task.md)✅
@@ -34,4 +34,4 @@
 >33. [Java. Наследование и полиморфизм.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/33task.md)
 >34. [Java. Исключения. Проверяемые исключения.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/34task.md)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=2023+2023+2023+2023)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=202320232023202320232023202320232023202320232023+2023+2023+2023)](https://git.io/typing-svg)  
