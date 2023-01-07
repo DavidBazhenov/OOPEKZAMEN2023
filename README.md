@@ -19,11 +19,11 @@
 >18. [С#. Структура платформы .Net. Типы данных С#.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/18task.md)✅
 >19. [С#. Классы, создание объектов.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/19task.md)✅
 >20. [С#. Перегрузка операторов.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/20task.md)✅
->21. [С#. Методы классов и их модификаторы](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/21task.md)
->22. [С#. Исключительные ситуации и их обработка](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/22task.md)
->23. [C#. Классы String и StringBuilder.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/23task.md)
->24. [С#. Универсальные классы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/24task.md)
->25. [С#. Наследование, виртуальные функции](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/25task.md)
+>21. [С#. Методы классов и их модификаторы](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/21task.md)✅️
+>22. [С#. Исключительные ситуации и их обработка](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/22task.md)✅️
+>23. [C#. Классы String и StringBuilder.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/23task.md)✅️
+>24. [С#. Универсальные классы.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/24task.md)✅️
+>25. [С#. Наследование, виртуальные функции](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/25task.md)✅️
 >26. [С#. Абстрактные классы и классы-интерфейсы](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/26task.md)✅️
 >27. [С#. Коллекции. Список, Словарь.](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/27task.md)✅️
 >28. [С#. Делегаты и события](https://github.com/DavidBazhenov/OOPEKZAMEN2023/blob/main/tasks/28task.md)✅️
